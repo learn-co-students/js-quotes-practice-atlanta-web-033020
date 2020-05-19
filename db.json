@@ -1,34 +1,16 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
-      "id": 3,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Mike Tyson"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
       "id": 5,
       "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
-      "author": "Dorothy Parker"
+      "author": "Dorothy Parker",
+      "quote_id": 5
     },
     {
       "id": 6,
       "quote": "Do the best you can in every task, no matter how unimportant it may seem at the time. No one learns more about a problem than the person at the bottom.",
-      "author": "Sandra Day O'Connor"
+      "author": "Sandra Day O'Connor",
+      "quote_id": 6
     },
     {
       "id": 7,
@@ -49,17 +31,184 @@
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quote_id": 5,
+      "id": 1
+    },
+    {
+      "quote_id": 5,
+      "id": 2
+    },
+    {
+      "quote_id": 6,
+      "id": 3
+    },
+    {
+      "quote_id": 6,
+      "id": 4
+    },
+    {
+      "quote_id": 5,
+      "id": 5
+    },
+    {
+      "quote_id": 5,
+      "id": 6
+    },
+    {
+      "quote_id": 5,
+      "id": 7
+    },
+    {
+      "quote_id": 5,
+      "id": 8
+    },
+    {
+      "quote_id": 5,
+      "id": 9
+    },
+    {
+      "quote_id": 5,
+      "id": 10
+    },
+    {
+      "quote_id": 5,
+      "id": 11
+    },
+    {
+      "quote_id": 5,
+      "id": 12
+    },
+    {
+      "quote_id": 5,
+      "id": 13
+    },
+    {
+      "quote_id": 5,
+      "id": 14
+    },
+    {
+      "quote_id": 5,
+      "id": 15
+    },
+    {
+      "quote_id": 5,
+      "id": 16
+    },
+    {
+      "quote_id": 5,
+      "id": 17
+    },
+    {
+      "quote_id": 5,
+      "id": 18
+    },
+    {
+      "quote_id": 5,
+      "id": 19
+    },
+    {
+      "quote_id": 5,
+      "id": 20
+    },
+    {
+      "quote_id": 5,
+      "id": 21
+    },
+    {
+      "quote_id": 5,
+      "id": 22
+    },
+    {
+      "quote_id": 5,
+      "id": 23
+    },
+    {
+      "quote_id": 5,
+      "id": 24
+    },
+    {
+      "quote_id": 5,
+      "id": 25
+    },
+    {
+      "quote_id": "250",
+      "id": 26
+    },
+    {
+      "quote_id": 5,
+      "id": 27
+    },
+    {
+      "quote_id": 5,
+      "id": 28
+    },
+    {
+      "quote_id": 5,
+      "id": 29
+    },
+    {
+      "quote_id": 5,
+      "id": 30
+    },
+    {
+      "quote_id": 5,
+      "id": 31
+    },
+    {
+      "quote_id": 5,
+      "id": 32
+    },
+    {
+      "quote_id": 5,
+      "id": 33
+    },
+    {
+      "quote_id": 5,
+      "id": 34
+    },
+    {
+      "quoteId": 5,
+      "id": 35
+    },
+    {
+      "quoteId": 5,
+      "id": 36
+    },
+    {
+      "quoteId": 5,
+      "id": 37
+    },
+    {
+      "quoteId": 5,
+      "id": 38
+    },
+    {
+      "quoteId": 5,
+      "id": 39
+    },
+    {
+      "quoteId": 5,
+      "id": 40
+    },
+    {
+      "quoteId": 5,
+      "id": 41
+    },
+    {
+      "quoteId": 6,
+      "id": 42
+    },
+    {
+      "quoteId": 6,
+      "id": 43
+    },
+    {
+      "quoteId": 6,
+      "id": 44
     }
   ]
 }
